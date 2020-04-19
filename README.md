@@ -7,7 +7,7 @@
 - Performed Exploratory Data Analysis to uncover the underlying important structure of the glassdoor job dataset
 - Engineered features from the text of each job description to quantify the value companies put on python, sql, R, spark, aws and excel
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model
-- Built a client facing API using flask
+- Created a client facing API using flask
 
 # Resources 
 
